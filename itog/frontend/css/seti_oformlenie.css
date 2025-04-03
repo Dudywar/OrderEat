@@ -1,0 +1,81 @@
+.borsh {
+    width: 300px;
+    height: 200px;
+    line-height: normal;
+    font-size: 0;
+    line-height: 0;
+}
+
+.tb {
+    margin: auto;
+}
+
+
+.txt {
+    text-align: center;
+}
+
+.stroka {
+    line-height: 100px;
+
+}
+
+.tid {
+    word-spacing: 10px;
+}
+
+.btn {
+    padding: 0.5em 1.5em;
+    /* Поля по вертикали и горизонтали */
+    font-size: 0.9em;
+    /* Размер текста */
+    color: #000000;
+    /* Белый цвет текста */
+    background-color: #1bb11b;
+    /* Цвет фона кнопки */
+    border-width: 0;
+    /* Убираем рамку */
+    border-bottom: 4px solid #075511;
+    /* Линия снизу */
+    border-radius: 0.4em;
+    /* Радиус скругления */
+}
+
+.btn5 {
+    padding: 0.5em 1.5em;
+    /* Поля по вертикали и горизонтали */
+    font-size: 0.9em;
+    /* Размер текста */
+    color: #000000;
+    /* Белый цвет текста */
+    background-color: #0059ff;
+    /* Цвет фона кнопки */
+    border-width: 0;
+    /* Убираем рамку */
+    border-bottom: 4px solid #062b3a;
+    /* Линия снизу */
+    border-radius: 0.4em;
+    /* Радиус скругления */
+}
+
+
+.btn1 {
+    padding: 0.5em 1.5em;
+    font-size: 0.9em;
+    color: #000000;
+    background-color: #21a84a;
+    border-width: 0;
+    border-bottom: 4px solid #094912;
+    border-radius: 0.4em;
+    float: right;
+
+}
+
+
+
+
+
+.menu {
+    width: 300px;
+    height: 300px;
+}

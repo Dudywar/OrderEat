@@ -1,0 +1,38 @@
+.li {
+    list-style-type: none;
+    text-align: center;
+}
+
+.borsh {
+    width: 300px;
+    height: 200px;
+    line-height: normal;
+    font-size: 0;
+    line-height: 0;
+}
+
+.text-golova {
+    text-align: center;
+}
+
+.golova {
+    position: fixed;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+.btn {
+    padding: 0.5em 1.5em;
+    /* Поля по вертикали и горизонтали */
+    font-size: 0.9em;
+    /* Размер текста */
+    color: #fff;
+    /* Белый цвет текста */
+    background-color: #09db48;
+    /* Цвет фона кнопки */
+    border-width: 0;
+    /* Убираем рамку */
+    border-bottom: 4px solid #05740e;
+    /* Линия снизу */
+    border-radius: 0.4em;
+    /* Радиус скругления */
+}

@@ -1,0 +1,4 @@
+Flask
+Flask-SocketIO
+flask_cors
+firebase_admin
